@@ -29,7 +29,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
         </tr>
         <tr>
             <td><a href="
-            target="_blank">53. Maximum Subarray</a></td>
+            target="_blank"></a></td>
             <td>Médio</td>
         </tr>
         <tr>
