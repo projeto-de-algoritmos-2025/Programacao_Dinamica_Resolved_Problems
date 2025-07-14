@@ -28,12 +28,11 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a href="
-            target="_blank"></a></td>
+            <td><a href="https://leetcode.com/problems/coin-change-ii/description/" target="_blank">518. Coin Change II</a></td>
             <td>Médio</td>
         </tr>
         <tr>
-            <td><a href= " target="_blank"></a></td>
+            <td><a href= https://leetcode.com/problems/distinct-subsequences/description/" target="_blank">115. Distinct Subsequences</a></td>
             <td>Difícil</td>
         </tr>
         <tr>
