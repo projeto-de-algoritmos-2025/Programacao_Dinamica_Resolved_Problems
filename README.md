@@ -24,7 +24,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <td><a href=" target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/interleaving-string/description/" target="_blank"></a></td>
             <td>Médio</td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href= " target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/tallest-billboard/description/" target="_blank"></a></td>
             <td>Difícil</td>
         </tr>
     </tbody>
@@ -54,8 +54,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <td>Video da apresentação dos problemas  </td>
-            <td><a href="">Assistir no YouTube</a></td>
+            <td>Video da apresentação dos problemas 97 e 915  </td>
+            <td><a href="https://www.youtube.com/watch?v=mDPUidAO5Cw">Assistir no YouTube</a></td>
         </tr>
         <tr>
             <td>Video da apresentação dos problemas  </td>
