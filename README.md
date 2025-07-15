@@ -58,8 +58,8 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td><a href="https://www.youtube.com/watch?v=mDPUidAO5Cw">Assistir no YouTube</a></td>
         </tr>
         <tr>
-            <td>Video da apresentação dos problemas  </td>
-            <td><a href="">Assistir no YouTube</a></td>
+            <td>Video da apresentação dos problemas 518 e 115  </td>
+            <td><a href="https://youtu.be/tztVWbNK9Tg">Assistir no YouTube</a></td>
         </tr>
     </tbody>
 </table>
