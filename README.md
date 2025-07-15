@@ -24,7 +24,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
     </thead>
     <tbody>
         <tr>
-            <td><a href=https://leetcode.com/problems/interleaving-string/description/" target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/interleaving-string/description/" target="_blank">97. Interleaving String</a></td>
             <td>Médio</td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@ e duas de nível "difícil", os exercícios foram resolvidos usando a linguagem 
             <td>Difícil</td>
         </tr>
         <tr>
-            <td><a href=https://leetcode.com/problems/tallest-billboard/description/" target="_blank"></a></td>
+            <td><a href=https://leetcode.com/problems/tallest-billboard/description/" target="_blank">956.Tallest Billboard</a></td>
             <td>Difícil</td>
         </tr>
     </tbody>
